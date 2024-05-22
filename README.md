@@ -1,11 +1,32 @@
 # Pokémon Emerald
+This is a decompilation of Pokémon Emerald that was modified in order to make a new game. The project does not have an official name as of right now.
 
-This is a decompilation of Pokémon Emerald.
+## Current Features
+[TO-DO]
 
-It builds the following ROM:
+## Planned Features
+[TO-DO]
 
-* [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
 
-To set up the repository, see [INSTALL.md](INSTALL.md).
+## Download/How to Build
+[TO-DO]
 
-For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
+
+## Credits
+Used pret's Pokémon Emerald decompilation as a base: https://github.com/pret/pokeemerald?tab=readme-ov-file
+
+Used asset's from Team Aqua Repository: https://github.com/Pawkkie/Team-Aquas-Asset-Repo
+
+The asset's used from Team Aqua's Repository were created/added by:
+  * Kyle-Dove
+  * Sagaxxy
+  * Newtieuf
+  * Stormlugia
+  * Previous
+  * WesleyFG
+  * Zetavares852
+  * Alucus
+  * BoomxBig
+  * UltimoSpriter
+  * PrinceLegendairo
+  * Heartlessdragoon
